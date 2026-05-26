@@ -14,3 +14,9 @@ ele resolve e qual o conceito da disciplina que foi aplicado.
 Instruções básicas de como compilar/executar o código.
 ## 📅 Data de Entrega
 26/05/2026
+
+git status
+
+git add
+
+git 
