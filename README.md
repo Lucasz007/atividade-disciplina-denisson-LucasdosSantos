@@ -1,7 +1,7 @@
 # Atividade Prática — Disciplina do Prof. Denisson
 ## 📌 Identificação
 - **Aluno(a):** Lucas dos Santos Marins do Monte
-- **Matrícula:**
+- **Matrícula:** 2026.13635
 - **Curso:** GTI
 - **Período:** 1º
 - **Disciplina:** Fundamentos de Programação e Estruturas de Dados
